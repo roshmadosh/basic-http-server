@@ -12,6 +12,19 @@ Referenced [A HTTP Server Web Server Framework Written in C (Just For Fun)](http
 ## Run
 `./server`
 
+## Checklist
+Grabbed off some reddit post:
+
+- [x] Create an internet socket 
+- [x] Bind the socket to [localhost](localhost)
+- [x] Listen on the socket
+- [ ] Block on Accept until a connection is made
+- [x] Read on the connected socket
+- [x] Figure out how to respond
+- [x] Write back on the connected socket
+- [x] Close the connection
+- [ ] Go back to blocking on Accept  
+			
 ## References
 Makefile tutorial: https://makefiletutorial.com/#static-pattern-rules  
 
