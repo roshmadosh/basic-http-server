@@ -20,14 +20,14 @@ make
 ## Checklist
 Grabbed off some reddit post:
 
-- [x] Create an internet socket 
-- [x] Bind the socket to [localhost](localhost)
-- [x] Listen on the socket
+- [ ] Create an internet socket 
+- [ ] Bind the socket to [localhost](localhost)
+- [ ] Listen on the socket
 - [ ] Block on Accept until a connection is made
-- [x] Read on the connected socket
-- [x] Figure out how to respond
-- [x] Write back on the connected socket
-- [x] Close the connection
+- [ ] Read on the connected socket
+- [ ] Figure out how to respond
+- [ ] Write back on the connected socket
+- [ ] Close the connection
 - [ ] Go back to blocking on Accept  
 			
 ## References
