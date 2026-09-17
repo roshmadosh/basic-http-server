@@ -7,10 +7,15 @@ Referenced [A HTTP Server Web Server Framework Written in C (Just For Fun)](http
 
 ## Build
 
-`make`
+```bash
+make
+```
 
 ## Run
-`./server`
+
+```bash
+./server
+```
 
 ## Checklist
 Grabbed off some reddit post:
